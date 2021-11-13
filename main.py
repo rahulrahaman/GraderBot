@@ -16,7 +16,7 @@ def get_values(col_name, row_range):
 
 # The path to main directory, roster-grade file
 main_directory = 'F:/Downloads/Linear-model-tutorial/'
-excel_fname = 'ST4233-2122-midterm-auto.xlsx'
+excel_fname = ''
 excel_file = os.path.join(main_directory, excel_fname)
 
 # Tutorial name, here I am assuming the folder name and sheet names
